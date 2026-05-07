@@ -6,7 +6,7 @@ The project focuses on clean UI, easy navigation, conversion-focused sections, a
 Many local salon service websites have:
 Poor mobile experience
 Weak call-to-action sections
-Cluttered layouts
+Cluttered layouts 
 Low user engagement
 Lack of trust-building elements
 This redesign solves these issues using modern UI/UX principles.
