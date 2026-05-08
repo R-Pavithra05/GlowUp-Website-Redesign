@@ -1,6 +1,6 @@
-# GlowUp - Local Service Website Redesign
+# GlowUp - Local Service Website Redesign Prototype
 ## Project Overview
-GlowUp is a mobile-first salon service website redesign created to improve user experience, trust, and booking conversions for local beauty services.
+GlowUp is a mobile-first salon service website redesign prototype created to improve user experience, trust, and booking conversions for local beauty services.
 The project focuses on clean UI, easy navigation, conversion-focused sections, and responsive mobile design.
 ## Problem Statement
 Many local salon service websites have:
