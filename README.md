@@ -62,7 +62,5 @@ Clean readable fonts
 Spacious layout
 ## Tools Used
 Figma
-## Figma Prototype
-https://www.figma.com/design/ksDBsAGc78OgetzDRZEpLz/Salon-Website-Redesign?node-id=9-53&t=iv9acJwvXJV0sGth-1
 ## Conclusion
 This project demonstrates a modern UI/UX redesign approach for local service businesses with a strong focus on usability, accessibility, and conversion optimization.
